@@ -1,0 +1,15 @@
+{
+  "name": "wiktionary-scraper",
+  "version": "1.0.0",
+  "description": "french wictionary scraper",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "wiktionary scraper"
+  },
+  "author": "",
+  "license": "ISC"
+}
